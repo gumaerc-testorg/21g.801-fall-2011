@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a13a5234-7571-f1b0-67b1-52bef7271fbe
 resourcetype: Document
 title: Imperfeito
 uid: d8f91f54-6a4a-7d3b-d82d-142a950e7cfc

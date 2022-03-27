@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a13a5234-7571-f1b0-67b1-52bef7271fbe
 resourcetype: Document
 title: O tempo
 uid: 5130653d-0e99-5a1c-f394-ec33341be60c

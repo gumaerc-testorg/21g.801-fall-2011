@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a13a5234-7571-f1b0-67b1-52bef7271fbe
 resourcetype: Document
 title: A comida
 uid: 9aedf31a-530a-604e-6562-cb8867beb361
