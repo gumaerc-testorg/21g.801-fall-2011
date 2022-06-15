@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains study materials for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -9,11 +10,11 @@ uid: a13a5234-7571-f1b0-67b1-52bef7271fbe
 Presentations
 -------------
 
-[A comida (PDF - 1.6MB)]({{< baseurl >}}/resources/mit21g_801f11_a_comida)
+{{% resource_link 9aedf31a-530a-604e-6562-cb8867beb361 "A comida (PDF - 1.6MB)" %}}
 
-[O tempo (PDF - 3.7MB)]({{< baseurl >}}/resources/mit21g_801f11_o_tempo)
+{{% resource_link 5130653d-0e99-5a1c-f394-ec33341be60c "O tempo (PDF - 3.7MB)" %}}
 
-[Imperfeito (PDF)]({{< baseurl >}}/resources/mit21g_801f11_imperfeito)
+{{% resource_link d8f91f54-6a4a-7d3b-d82d-142a950e7cfc "Imperfeito (PDF)" %}}
 
 Handouts
 --------
