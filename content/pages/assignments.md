@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page contains a session-by-session table of the assignments for
+  the course, as well as an overview of the topics covered in each class session.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 28c7db16-aa50-2948-e7c9-d4e675642b43
 ---
