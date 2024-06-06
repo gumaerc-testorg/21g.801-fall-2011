@@ -2,6 +2,7 @@
 content_type: resource
 description: Slide presentation on preterite and imperfect tense in Portuguese.
 file: /courses/21g-801-portuguese-i-fall-2011/d8f91f546a4a7d3bd82d142a950e7cfc_MIT21G_801F11_Imperfeito.pdf
+file_size: 307498
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
