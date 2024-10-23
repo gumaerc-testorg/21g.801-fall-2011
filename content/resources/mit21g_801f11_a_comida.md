@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slide presentation on speaking about food in Portuguese.
-file: /courses/21g-801-portuguese-i-fall-2011/9aedf31a530a604e6562cb8867beb361_MIT21G_801F11_A_comida.pdf
+file: /ol-ocw-studio-app/courses/21g-801-portuguese-i-fall-2011/9aedf31a530a604e6562cb8867beb361_MIT21G_801F11_A_comida.pdf
 file_size: 1652986
 file_type: application/pdf
 learning_resource_types: []
