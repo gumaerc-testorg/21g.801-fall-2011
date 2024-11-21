@@ -32,7 +32,7 @@ Whitlam, John. *Modern Brazilian Portuguese Grammar: A Practical Guide*. Routled
 
 Portuguese I is an introduction to Portuguese for students with little or no previous knowledge of the language. All the basic grammar is covered, divided into Portuguese I and II. Basic vocabulary is also presented. Our main goal is communication in Portuguese, with special emphasis on speaking in the first semester and greater attention to reading and writing in the second, but all the other skills are also practiced. Students will also be introduced to the cultures of the Portuguese-speaking world through readings of authentic materials, including brief dialogues, music and video. The class is conducted in Portuguese, with occasional resort to English for clarity purposes.
 
-Please see the {{% resource_link 28c7db16-aa50-2948-e7c9-d4e675642b43 "Assignments" %}} page for an overview of the topics covered in each class session over the semester.
+Please see the {{% resource_link "28c7db16-aa50-2948-e7c9-d4e675642b43" "Assignments" %}} page for an overview of the topics covered in each class session over the semester.
 
 ## Evaluation/Grades
 
@@ -52,7 +52,7 @@ Students are expected to prepare the assigned materials for each class and compl
 
 - Studying the vocabulary and grammar in the *Ponto de Encontro* text and completing any written exercises assigned.
 - Completing the exercises in the *Workbook*. The *Workbook* exercises can be checked with an answer key. You are expected to do these exercises and correct them using the answer key before handing them in.
-- You can also have extra practice by going on-line and doing the *non-mandatory* exercises as a review for each lesson. They can be found on the [Ponto de Encontro website](http://wps.prenhall.com/wl_klobucka_ponto_1/).
+- You can also have extra practice by going on-line and doing the *non-mandatory* exercises as a review for each lesson. They can be found on the [Ponto de Encontro website](https://lingrolearning.com/product/ponto/).
 - All assignments are to be done on the date indicated. *Late work will not receive full credit*. Do the homework in the order it is assigned each day. Anything marked "entregar" is to be handed in. The *Workbook* exercises are designed to reinforce the grammar and vocabulary introduced in the textbook, as well as to improve your listening comprehension. They are required components of the course and it's important that you complete them right away, as soon as the material is covered. Don't let your homework pile up. Working a little every day and frequent reviewing are more effective than a few long sessions of study at longer intervals.
 
 **3\. Exams: (40%)**
