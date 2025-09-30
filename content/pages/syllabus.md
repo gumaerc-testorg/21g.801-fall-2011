@@ -52,7 +52,7 @@ Students are expected to prepare the assigned materials for each class and compl
 
 - Studying the vocabulary and grammar in the *Ponto de Encontro* text and completing any written exercises assigned.
 - Completing the exercises in the *Workbook*. The *Workbook* exercises can be checked with an answer key. You are expected to do these exercises and correct them using the answer key before handing them in.
-- You can also have extra practice by going on-line and doing the *non-mandatory* exercises as a review for each lesson. They can be found on the [Ponto de Encontro website](https://lingrolearning.com/product/ponto/).
+- You can also have extra practice by going on-line and doing the *non-mandatory* exercises as a review for each lesson. They can be found on the {{% resource_link "7cbce268-41a7-435b-8328-8ade696bb193" "Ponto de Encontro website" %}}.
 - All assignments are to be done on the date indicated. *Late work will not receive full credit*. Do the homework in the order it is assigned each day. Anything marked "entregar" is to be handed in. The *Workbook* exercises are designed to reinforce the grammar and vocabulary introduced in the textbook, as well as to improve your listening comprehension. They are required components of the course and it's important that you complete them right away, as soon as the material is covered. Don't let your homework pile up. Working a little every day and frequent reviewing are more effective than a few long sessions of study at longer intervals.
 
 **3\. Exams: (40%)**
